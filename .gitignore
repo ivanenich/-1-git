@@ -1,0 +1,11 @@
+# Папки сборки
+bin/
+obj/
+Debug/
+Release/
+
+# Файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.log
