@@ -15,7 +15,7 @@ namespace Ivanenko01._03
 
         static void Main(string[] args)
         {
-            // Настройка кодировки для корректного отображения русского языка
+            // Настройка кодировки для корректного отображения русского языка.
             try
             {
                 Console.OutputEncoding = Encoding.UTF8;
