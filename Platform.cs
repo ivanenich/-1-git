@@ -20,7 +20,7 @@ namespace Ivanenko01._03
             set
             {
                 if (string.IsNullOrWhiteSpace(value))
-                    throw new ArgumentException("Название платформы не может быть пустым");
+                    throw new ArgumentException("Название платформы не может быть пустым.");
                 _name = value;
             }
         }
