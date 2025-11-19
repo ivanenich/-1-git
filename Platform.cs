@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 namespace Ivanenko01._03
 {
     /// <summary>
-    /// Класс для представления платформы
+    /// Класс для представления платформы.
     /// </summary>
     [Serializable]
     [DataContract]
